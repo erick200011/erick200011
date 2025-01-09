@@ -1,4 +1,4 @@
-Hello, I'm Erick Palomo 👋🏽  
+# Hello, I'm Erick Palomo 👋🏽  
 Passionate about backend development and working with data. I enjoy creating efficient and scalable solutions.  
 
 ### About Me:
