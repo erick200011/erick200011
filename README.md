@@ -7,6 +7,6 @@
 ## 🌟 Proyectos Destacados
 - **Gestión de Equipos**: Aplicación para la Secretaría del Ambiente, manejando mantenimiento, calibración y gestión de equipos.  
 
-🌐 Visita mi [proyecto en Render](https://gestion-equiposarea21.onrender.com).  
-
+🌐 Mi API [proyecto en Render](https://gestion-equiposarea21.onrender.com).  
+🌐 Visita mi API en Swagger desplegada[proyecto en Netlify](https://deploysawgger.netlify.app/).  
 ¡Gracias por visitar mi perfil! 😊
