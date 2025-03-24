@@ -24,7 +24,7 @@ Bachelor’s Thesis Project: "Gestión de Equipos" for Secretaría del Ambiente
 
 ### Contact Me:
 📫 Email: erick.palomo.dev@example.com  
-📫 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)  
+📫 LinkedIn: [Erick Palomo](https://www.linkedin.com/in/erick-palomo-81354b219/)  
 
 ¡Thanks for visiting my profile! 😊  
 
